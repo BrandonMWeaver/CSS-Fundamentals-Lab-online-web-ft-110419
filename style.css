@@ -25,4 +25,6 @@ figcaption {
   text-align: center;
 }
 
-#featured-property
+#featured-property > p {
+  
+}
